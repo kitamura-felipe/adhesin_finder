@@ -18,10 +18,10 @@ Bioinformatics, Volume 21, Issue 4, 15 February 2005, Pages 483–491, https://d
 You may use adhesin_finder in two ways:
 
 * Telegram App interface:
-  1. Download Telegram App
+  1. Download *Telegram* App
   2. Register your phone number
-  3. Add "adhesin_finder_bot" to your contacts.
-  4. Send a FASTA file to the bot.
+  3. Add *"adhesin_finder_bot"* to your contacts.
+  4. *Send* a FASTA file to the bot.
   5. Wait a few seconds.
   6. Download the "query.out" file. This is the file with the results.
 
@@ -33,4 +33,4 @@ You may use adhesin_finder in two ways:
     
 ## Troubleshooting
 
-MAke sure your yout FASTA file has only linefeed characters and NO carriage return character.
+MAke sure your yout FASTA file has *only linefeed* characters and *NO carriage return* character.
