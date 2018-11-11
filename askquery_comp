@@ -1,0 +1,26 @@
+gcc filter.c -o filter
+gcc annotate.c -o annotate
+
+cd AAcompo/
+gcc AAcompo.c -o AAcompo -lm
+gcc recognize.c -o recognize -lm
+
+cd ../charge/
+gcc charge.c -o charge -lm
+gcc recognize.c -o recognize -lm
+
+
+cd ../hdr/
+gcc hdr.c -o hdr -lm
+gcc recognize.c -o recognize -lm
+
+cd ../multiplets/
+gcc multiplets.c -o multiplets
+gcc recognize.c -o recognize -lm
+
+cd ../dipep/
+gcc querydipep.c -o querydipep
+gcc recognize.c -o recognize -lm
+
+cd ..
+gcc finalp1.c -o finalp1
