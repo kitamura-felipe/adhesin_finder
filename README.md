@@ -5,7 +5,7 @@ Compiled binaries for SPAAN.
 
 SPAAN is a software program for prediction of adhesins and adhesin-like proteins using neural networks.
 
-This repo is a compiled version of SPAAN (compiled in Ubuntu 14.04, but also tested in 16 and 18). 
+This repo is a compiled version of SPAAN (compiled in Ubuntu 14.04 and also tested in Ubuntu 16.04, 18.04 and RHEL 7.5). 
 
 If you use SPAAN, please cite the original authors:
 
@@ -25,9 +25,9 @@ You may use adhesin_finder in two ways:
   5. Wait a few seconds.
   6. **Download** the "query.out" file. This is the file with the results.
 
-* **Command-line** in unix based OS:
+* **Command-line** in Ubuntu/RHEL:
   1. **Clone** this repo.
-  2. Put your protein sequence in a file named **"query.dat"**, inside the SPAAN root folder. This should be a FASTA format.
+  2. Put your protein sequence in a file named **"query.dat"**, inside the SPAAN root folder. It should be in FASTA format.
   3. **Run**: "./askquery"
   4. After a few seconds, your result will be in the **"query.out"** file.
     
