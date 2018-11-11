@@ -17,20 +17,20 @@ Bioinformatics, Volume 21, Issue 4, 15 February 2005, Pages 483–491, https://d
 
 You may use adhesin_finder in two ways:
 
-* Telegram App interface:
-  1. Download *Telegram* App
+* **Telegram** App interface:
+  1. Download **Telegram** App
   2. Register your phone number
-  3. Add *"adhesin_finder_bot"* to your contacts.
-  4. *Send* a FASTA file to the bot.
+  3. Add **"adhesin_finder_bot"** to your contacts.
+  4. **Send** a FASTA file to the bot.
   5. Wait a few seconds.
-  6. Download the "query.out" file. This is the file with the results.
+  6. **Download** the "query.out" file. This is the file with the results.
 
-* Command-line in unix based OS:
-  1. Clone this repo.
-  2. Put your protein sequence in a file named "query.dat", inside the SPAAN root folder. THis should be a FASTA format.
-  3. Run: "./askquery"
-  4. After a few seconds, your result will be in the "query.out" file.
+* **Command-line** in unix based OS:
+  1. **Clone** this repo.
+  2. Put your protein sequence in a file named **"query.dat"**, inside the SPAAN root folder. This should be a FASTA format.
+  3. **Run**: "./askquery"
+  4. After a few seconds, your result will be in the **"query.out"** file.
     
 ## Troubleshooting
 
-MAke sure your yout FASTA file has *only linefeed* characters and *NO carriage return* character.
+MAke sure your yout FASTA file has **only linefeed** characters and **NO carriage return** character.
