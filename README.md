@@ -1,4 +1,4 @@
-# adhesin_finder: a Telegram interface for SPAAN
+# **adhesin_finder**: a Telegram interface for SPAAN
 Compiled binaries for SPAAN.
 
 ## Introduction
