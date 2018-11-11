@@ -17,7 +17,7 @@ Bioinformatics, Volume 21, Issue 4, 15 February 2005, Pages 483–491, https://d
 
 You may use adhesin_finder in two ways:
 
-1. Telegram App interface:
+* Telegram App interface:
   1. Download Telegram App
   2. Register your phone number
   3. Add "adhesin_finder_bot" to your contacts.
@@ -25,7 +25,7 @@ You may use adhesin_finder in two ways:
   5. Wait a few seconds.
   6. Download the "query.out" file. This is the file with the results.
 
-2. Command-line in unix based OS:
+* Command-line in unix based OS:
   1. Clone this repo.
   2. Put your protein sequence in a file named "query.dat", inside the SPANN root folder. THis should be a FASTA format.
   3. Run: "./askquery"
