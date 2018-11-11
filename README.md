@@ -27,7 +27,7 @@ You may use adhesin_finder in two ways:
 
 * Command-line in unix based OS:
   1. Clone this repo.
-  2. Put your protein sequence in a file named "query.dat", inside the SPANN root folder. THis should be a FASTA format.
+  2. Put your protein sequence in a file named "query.dat", inside the SPAAN root folder. THis should be a FASTA format.
   3. Run: "./askquery"
   4. After a few seconds, your result will be in the "query.out" file.
     
